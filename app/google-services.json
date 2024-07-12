@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787101320210",
+    "project_id": "online-shop-android-studio",
+    "storage_bucket": "online-shop-android-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787101320210:android:68d873371fc711d76a84cb",
+        "android_client_info": {
+          "package_name": "com.chumvehakh.onlineshopandroidstudio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6bf6kn7idSTrZ78k8l3WOfdYCz5xjg-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
